@@ -10,7 +10,7 @@
 
 ## English
 
-**Copyright (c) [Year] [Your Name / Nickname, e.g., Vince Kidd]**
+**Copyright (c) 2026 Vince Kidd**
 **All rights reserved.**
 
 This license applies exclusively to the compiled builds provided in this repository. The source code of the software is closed and is not provided. By downloading, installing, or using these builds, you automatically agree to all the terms of this license.
@@ -40,7 +40,7 @@ THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 
 ## Русский
 
-**Copyright (c) [Год] [Твое имя / Никнейм]**
+**Copyright (c) 2026 Vince Kidd**
 **Все права защищены.**
 
 Настоящая лицензия распространяется исключительно на скомпилированные сборки (билды), размещенные в данном репозитории. Исходный код программного обеспечения является закрытым и не предоставляется. Загружая, устанавливая или используя данные сборки, вы автоматически соглашаетесь со всеми условиями данной лицензии.
@@ -70,7 +70,7 @@ THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 
 ## Українська
 
-**Copyright (c) [Рік] [Ваше ім'я / Нікнейм]**
+**Copyright (c) 2026 Vince Kidd**
 **Всі права захищено.**
 
 Ця ліцензія поширюється виключно на скомпільовані збірки (білди), розміщені в цьому репозиторії. Вихідний код програмного забезпечення є закритим і не надається. Завантажуючи, встановлюючи або використовуючи ці збірки, ви автоматично погоджуєтеся з усіма умовами цієї ліцензії.
@@ -100,7 +100,7 @@ THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 
 ## Polski
 
-**Copyright (c) [Rok] [Twoje Imię / Nick]**
+**Copyright (c) 2026 Vince Kidd**
 **Wszelkie prawa zastrzeżone.**
 
 Niniejsza licencja dotyczy wyłącznie skompilowanych wersji (buildów) udostępnionych w tym repozytorium. Kod źródłowy oprogramowania jest zamknięty i nie jest udostępniany. Pobierając, instalując lub używając tych kompilacji, automatycznie akceptujesz wszystkie warunki niniejszej licencji.
@@ -130,7 +130,7 @@ OPROGRAMOWANIE JEST DOSTARCZANE „TAK JAK JEST” (AS IS), BEZ ŻADNYCH GWARANC
 
 ## Deutsch
 
-**Copyright (c) [Jahr] [Dein Name / Nickname]**
+**Copyright (c) 2026 Vince Kidd**
 **Alle Rechte vorbehalten.**
 
 Diese Lizenz gilt ausschließlich für die in diesem Repository bereitgestellten kompilierten Builds. Der Quellcode der Software ist geschlossen und wird nicht zur Verfügung gestellt. Durch das Herunterladen, Installieren oder Verwenden dieser Builds stimmen Sie automatisch allen Bedingungen dieser Lizenz zu.
